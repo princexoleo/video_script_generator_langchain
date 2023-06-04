@@ -45,20 +45,17 @@ Generate Script
 
 4. The application will generate a video script for the given topic:
 ```
-# Bitcoin Video Script
 
-In this video, we will discuss Bitcoin, a decentralized digital currency that was created in 2009. Bitcoin is based on blockchain technology, which is a secure and transparent way to record transactions. Bitcoin has been gaining popularity in recent years, and its value has increased significantly.
+# Example :
+![alt text](https://github.com/princexoleo/video_script_generator_langchain/blob/main/snapshot_1.png)
 
-In this video, we will cover the following topics:
+<br>
+A simple video 
+[video width="50%" height="50%" src="https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.webm"](https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.webm)
 
-* What is Bitcoin?
-* How does Bitcoin work?
-* What are the benefits of using Bitcoin?
-* What are the risks of using Bitcoin?
 
-We will also discuss some of the latest developments in the Bitcoin industry.
 
-I hope you enjoy this video!
+
 
 
 ## Contributing
