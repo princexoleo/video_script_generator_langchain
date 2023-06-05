@@ -50,9 +50,9 @@ Generate Script
 ![alt text](https://github.com/princexoleo/video_script_generator_langchain/blob/main/snapshot_1.png)
 
 <br>
-A simple video 
-[video width="50%" height="50%" 
-src="https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.mp4"](https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.mp4)
+A simple video  <br>
+
+[![A Sample Example Video ]({https://github.com/princexoleo/video_script_generator_langchain/blob/main/snapshot_1.png})]({https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.mp4} "Link Title")
 
 
 
