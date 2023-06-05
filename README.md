@@ -51,7 +51,8 @@ Generate Script
 
 <br>
 A simple video 
-[video width="50%" height="50%" src="https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.webm"](https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.webm)
+[video width="50%" height="50%" 
+src="https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.mp4"](https://github.com/princexoleo/video_script_generator_langchain/blob/main/snap_video.mp4)
 
 
 
